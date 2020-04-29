@@ -5,7 +5,7 @@
 		<div class="col-lg-12 text-center">
 			<h1 class="mt-5">Online Exam System</h1>
 			<p class="lead">MCQ Based Online Exam System! <strong>Register now</strong> to start taking exam</p>
-			<img src="images/FutureSkill-03.png" style="height: 55% ; width:24%;" />
+			<img src="images/FutureSkill-03.png" style="height: 256px; width: 256px;" />
 		</div>
 
 		<div class="col-lg-12">
@@ -20,6 +20,7 @@
 					<input type="password" name="password" id="password" class="form-control" placeholder="Password">
 				</div>
 				<button type="submit" id="loginsubm" value="Signup" class="btn btn-warning">Submit</button>
+				<br>
 				<br>
 				<a href="forgot_password.php">Forgot Password?</a>
 			</form>

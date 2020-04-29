@@ -4,7 +4,7 @@
 		<div class="col-lg-12 text-center">
 			<h1 class="mt-5">Online Exam System</h1>
 			<p class="lead">MCQ Based Online Exam System!</p>
-			<img src="images/FutureSkill-03.png" style="height: 55% ; width:24%;" />
+			<img src="images/FutureSkill-03.png" style="height: 256px; width: 256px;" />
 		</div>
 
 		<div class="col-lg-12">
