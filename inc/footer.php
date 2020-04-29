@@ -9,6 +9,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-2 col-md-2">
 				<h5>Quick links</h5>
+				<br>
 				<ul class="list-unstyled quick-links">
 					<li>
 						<h6><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></h6>

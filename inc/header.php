@@ -29,7 +29,7 @@
 
           <li class="nav-item active">
             <a class="nav-link" href="#">Welcome
-              <span class="sr-only">(current)</span><strong><?php echo Session::get("name"); ?></strong>
+              <span class="sr-only">(current)</span><strong>USERNAME</strong>
             </a>
           </li>
 
@@ -37,7 +37,7 @@
             <a class="nav-link" href="certi.php">Certificate</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="?action=logout">Logout</a>
+            <a class="nav-link" href="">Logout</a>
           </li>
 
         </ul>
