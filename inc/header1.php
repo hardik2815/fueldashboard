@@ -26,7 +26,9 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
+
                     <li class="nav-item"><a class="nav-link" href="index.php">Login</a></li>
+
                     <li class="nav-item"><a class="nav-link" href="register.php">Register</a></li>
                 </ul>
             </div>
