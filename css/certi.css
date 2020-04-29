@@ -1,16 +1,16 @@
-.add-event {
-    font-size: 14px;
-    font-weight: bold;
-    color: #1743a2;
-    background: gold;
-    padding: 10px 15px;
-    border-radius: 3px;
-    border-color: goldenrod;
-    margin-left: 10px;
-    text-align: center;
-  }
-  
-  .add-event:hover {
-    color: white !important;
-    background: #1743a2 !important;
-  }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: transparent;
+  text-align: center;
+  padding: 10px;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
